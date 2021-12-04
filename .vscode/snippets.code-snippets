@@ -1,0 +1,16 @@
+{
+  "Basic template": {
+    "scope": "c",
+    "prefix": "i",
+    "body": [
+      "#include \"stdio.h\"",
+      "",
+      "int main()",
+      "{",
+      "\t$0",
+      "\treturn 0;",
+      "}"
+    ],
+    "description": "Sets up a basic C file template"
+  }
+}
